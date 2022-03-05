@@ -1,0 +1,18 @@
+body {
+    width: 75%;
+    margin: 0 auto;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+a {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+h1 {
+    font-size: 50px;
+    font-family: 'Jost', sans-serif;
+    font-weight: normal;
+}
